@@ -1,2 +1,5 @@
 # hello-world
-Yo World
+
+ello hoomans
+
+figuring out what github is.. dont mind me.
